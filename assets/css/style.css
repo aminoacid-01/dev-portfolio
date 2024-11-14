@@ -9,31 +9,36 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Poppins&display=swap');
 
-body{
-    font-family: "Poppins",sans-serif;
+body {
+    font-family: "Poppins", sans-serif;
     background-color: #a4c2d1;
-     /*egg blue  */
+    /*egg blue  */
 }
-h1,h2{
+
+h1,
+h2 {
     font-family: "DM Serif Display", serif;
-    color:#184f63;
+    color: #184f63;
     /* darkblue */
 }
-#hero{
+
+#hero {
     background: url("../images/background.webp") no-repeat 50% 70%/cover lightgrey;
     min-height: 500px;
     padding: 7% 5%;
 }
-        /* About Section */
+
+/* About Section */
 #about {
     background-color: white;
 }
+
 /* Portfoilo */
-#portfolio{
+#portfolio {
     background-color: #dbdcde;
 }
 
 /* contact section */
-#contact{
+#contact {
     background-color: white;
 }
